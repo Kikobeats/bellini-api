@@ -2,7 +2,7 @@
   "name": "bellini-api",
   "description": "Programatic API access for bellini.es",
   "homepage": "https://github.com/Kikobeats/bellini-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
