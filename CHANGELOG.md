@@ -1,3 +1,10 @@
+<a name="1.0.2"></a>
+## 1.0.2 (2017-02-18)
+
+* Tweaks ([b88fcd1](https://github.com/kikobeats/bellini-api/commit/b88fcd1))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2017-02-12)
 
