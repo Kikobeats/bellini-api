@@ -42,7 +42,6 @@ describe('bellini-api', function () {
 
           describe('rest of props', function () {
             it('name', () => item.name.should.be.an.String())
-            it('description', () => item.name.should.be.an.String())
             it('price', () => item.price.should.be.a.Number())
             it('condition', () => ['new', 'used'].includes(item.condition).should.be.true())
           })
