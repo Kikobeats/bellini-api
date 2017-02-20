@@ -1,3 +1,10 @@
+<a name="1.0.3"></a>
+## 1.0.3 (2017-02-20)
+
+* Fix check items length ([1bfa7df](https://github.com/kikobeats/bellini-api/commit/1bfa7df))
+
+
+
 <a name="1.0.2"></a>
 ## 1.0.2 (2017-02-18)
 
