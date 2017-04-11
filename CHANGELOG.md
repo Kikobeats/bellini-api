@@ -1,3 +1,10 @@
+<a name="1.0.4"></a>
+## 1.0.4 (2017-04-11)
+
+* Fix path ([dbb1f05](https://github.com/kikobeats/bellini-api/commit/dbb1f05))
+
+
+
 <a name="1.0.3"></a>
 ## 1.0.3 (2017-02-20)
 
