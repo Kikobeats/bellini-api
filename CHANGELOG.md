@@ -1,3 +1,10 @@
+<a name="1.0.5"></a>
+## 1.0.5 (2017-05-29)
+
+* fix(package): update got to version 7.0.0 ([1262264](https://github.com/kikobeats/bellini-api/commit/1262264))
+
+
+
 <a name="1.0.4"></a>
 ## 1.0.4 (2017-04-11)
 
