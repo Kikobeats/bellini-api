@@ -1,7 +1,5 @@
 # bellini-api
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/bellini-api.svg)](https://greenkeeper.io/)
-
 ![Last version](https://img.shields.io/github/tag/Kikobeats/bellini-api.svg?style=flat-square)
 [![Build Status](http://img.shields.io/travis/Kikobeats/bellini-api/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/bellini-api)
 [![Coverage Status](https://img.shields.io/coveralls/Kikobeats/bellini-api.svg?style=flat-square)](https://coveralls.io/github/Kikobeats/bellini-api)
